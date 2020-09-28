@@ -31,7 +31,7 @@ const imageStyleProps: IImageStyles = {
 export default (props: HomeScreenProps): JSX.Element => {
   const iconName = 'SkypeCircleCheck';
   const imageProps = { src: heroSVG.toString() };
-  const headerTitle = 'Exceptionally simple video calling';
+  const headerTitle = 'SWIS sample call';
   const startCallButtonText = 'Start a call';
   const listItems = [
     'Customize with your web stack',
